@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nubn1mkxyNTQLXN4tR64a1z8i2tD4SXcUK536AWn6U8qBphgtL/uW1O5dnp08xO+MCIxWgnB3rEkIrV9lS/D2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajam\\source\\repos\\thinkgandhi\\elekta\\ElektaAppointment\\ElektaAppointment.Services.AppointmentCatalog\\ElektaAppointment.Services.AppointmentCatalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
