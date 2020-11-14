@@ -12,7 +12,7 @@ In order to build and run the sample GloboTicket application, it is recommended 
 
 ### Building the Code
 
-You can either load `Elekta\ElektaAppointment.sln` in Visual Studio 2019 and build from within Visual Studio, or from the command line, in the same folder as `GloboTicket.sln`, enter the `dotnet build` command.
+You can either load `Elekta\ElektaAppointment\ElektaAppointment.sln` in Visual Studio 2019 and build from within Visual Studio, or from the command line, in the same folder as `GloboTicket.sln`, enter the `dotnet build` command.
 
 ### Running the Migrations
 Before you run **ElektaAppointment** for the first time, you need to run the database migrations for all microservices that have a SQL database. These are the **appointment catalog** microservice, and the **appointment** microservice.
