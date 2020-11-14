@@ -1,4 +1,4 @@
-# elekta
+# elekta appointment
 Elekta Coding Challenge
 
 ### Prerequisites
